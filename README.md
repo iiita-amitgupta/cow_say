@@ -1,5 +1,7 @@
 # README
 
+Link : https://rapidapi.com/blog/how-to-build-an-api-in-ruby/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
